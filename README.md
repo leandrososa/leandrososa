@@ -4,10 +4,10 @@
 
 ## This is my stack
 
-🤓**I'm proficient and/or use currently in a regular basis (both work and personal projects):** HTML, CSS, Sass/SCSS, Javascript, Vue.js, Ionic (v1 & v3), D3.js, Angular, jQuery
+🤓**I'm proficient and/or use currently in a regular basis (both work and personal projects):** HTML, CSS, Sass/SCSS, Javascript, Vue.js, Ionic (v1 & v3), .NET Webforms, D3.js, Angular, jQuery
 
 📚**Currently learning:** Nuxt.js, Node.js, Express.js
 
 🔮**I expect to learn someday:** React, Flutter, web3
 
-*Learnt but long time I don't use:* PHP, Cordova (Standalone), Phonegap, AngularJS
+*Learnt but long time I don't use:* AngularJS, Cordova (Standalone), Phonegap, Wordpress, PHP, SQL
