@@ -8,6 +8,6 @@
 
 📚 **Currently learning:** Nuxt.js, Node.js, Express.js, Electron
 
-🔮 **I expect to learn someday:** React, Flutter, web3
+🔮 **I expect to learn someday:** React, Flutter/Dart, web3
 
 *Learnt but long time I don't use:* AngularJS, Cordova (Standalone), Phonegap, Wordpress, PHP, SQL
